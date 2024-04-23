@@ -1,4 +1,5 @@
-# *Brazilian Jiu-Jitsu Training Log - Lean Inception, Requisitos, SCRUM e Prototipação*
+# *Brazilian Jiu-Jitsu Training Log
+# Lean Inception, Requisitos, SCRUM e Prototipação*
 
 ## Repositório exclusivo para entrega do MVP referente à sprint Gestão Ágil de Projetos e Produtos do curso de **Especialização em Engenharia de Software** - PUC-Rio 2024
 
