@@ -8,7 +8,7 @@
 - Arquivo “canvas-url.txt” com a url do board do Miro contendo todas as etapas realizadas para a Lean Inception, incluindo o MVP Canvas
 - Arquivo “product-backlog.pdf”
 - Arquivo "sprint-backlog.pdf"
-- Arquivos Figma e deixe na pasta “wireframes/ e arquivos de image dos protótipos
+- Arquivos Figma em “wireframes/ e arquivos de imagem dos protótipos
 - Arquivo de vídeo "project-showcase.mp4" e "project-showcase.txt" com a url do respectivo vídeo no Youtube
 
 Os artefatos tratam do projeto de uma aplicação web que permite o acompanhamento objetivo do progresso do aprendizado de técnicas de Jiu-Jitsu.
