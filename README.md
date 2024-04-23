@@ -2,7 +2,7 @@
 
 ## Repositório exclusivo para entrega do MVP referente à sprint Gestão Ágil de Projetos e Produtos do curso de **Especialização em Engenharia de Software** - PUC-Rio 2024
 
-Artefatos:
+### Artefatos:
 
 - Arquivo “canvas-url.txt” com a url do board do Miro contendo todas as etapas realizadas para a Lean Inception, incluindo o MVP Canvas
 - Arquivo “product-backlog.pdf”
@@ -12,7 +12,7 @@ Artefatos:
 
 Os artefatos tratam do projeto de uma aplicação web que permite o acompanhamento objetivo do progresso do aprendizado de técnicas de Jiu-Jitsu.
 
-## Objetivo
+### Objetivo
 
 <img src="./positions.jpg" alt="Brazilian Jiu-Jitsu Training Image" title="Brazilian Jiu-Jitsu Training Image" width="200"/>
 
