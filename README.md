@@ -9,7 +9,7 @@
 - Arquivo “product-backlog.pdf”
 - Arquivo "sprint-backlog.pdf"
 - Arquivos Figma em “wireframes/ e arquivos de imagem dos protótipos
-- Arquivo de vídeo "project-showcase.mp4" e "project-showcase.txt" com a url do respectivo vídeo no Youtube
+- Arquivo de vídeo "project-showcase.mp4" e "project-showcase.txt" com a url do respectivo vídeo no Youtube: [Video Demo Showcase](https://youtu.be/70Qsuq5dBGY)
 
 Os artefatos tratam do projeto de uma aplicação web que permite o acompanhamento objetivo do progresso do aprendizado de técnicas de Jiu-Jitsu.
 
