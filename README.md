@@ -5,7 +5,7 @@
 
 ### Artefatos:
 
-- Arquivo “canvas-url.txt” com a url do board do Miro contendo todas as etapas realizadas para a Lean Inception, incluindo o MVP Canvas
+- Arquivo “canvas-url.txt” com a [url do board do Miro](https://miro.com/app/board/uXjVKRmda-8=/?share_link_id=764196024974) contendo todas as etapas realizadas para a Lean Inception, incluindo o MVP Canvas
 - Arquivo “product-backlog.pdf”
 - Arquivo "sprint-backlog.pdf"
 - Arquivos Figma em “wireframes/ e arquivos de imagem dos protótipos
